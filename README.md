@@ -1,4 +1,4 @@
-# codeload-hml
+# hml
 
 HML (High Minus Low) strategy for Moonshot and Zipline, using Reuters Fundamentals.
 
